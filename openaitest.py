@@ -1,7 +1,7 @@
 import openai
 
 # Apply for an API key from OpenAI
-openai.api_key = "YOUR_API_KEY"
+openai.api_key = "YOUR_API_KEY_not mine"
 
 # Preprocess your data
 with open('input.txt', 'r', encoding='utf-8') as f:
